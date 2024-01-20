@@ -2,7 +2,7 @@
 
 ![unit tests](https://github.com/mattrltrent/jsonencryption/actions/workflows/unit_tests.yml/badge.svg)
 
-[import "github.com/mattrltrent/jsonencryption/jsonencryption"](github.com/mattrltrent/jsonencryption/jsonencryption)
+[import "github.com/mattrltrent/jsonencryption/jsonencryption"](https://github.com/mattrltrent/jsonencryption)
 
 ### What does it do?
 
